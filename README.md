@@ -24,5 +24,5 @@ How to use it :
 - }
 ___________________________________________
 All Copyrights Reserved To ! Ahmed Saied#0322
-- <a href="https://bit.ly/2Un6Sxh">YouTube Channel</a> :rose:
-- <a href="https://bit.ly/3yEyFs1">Discord Server</a> :rose:
+- [YouTube Channel](https://bit.ly/2Un6Sxh) :rose:
+- [Discord Server](https://bit.ly/3yEyFs1) :rose:
