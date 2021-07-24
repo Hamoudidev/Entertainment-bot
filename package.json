@@ -1,0 +1,20 @@
+{
+  "name": "entertainment-bot",
+  "version": "1.0.0",
+  "description": "All Copyrights Reserved To ! Ahmed Saied#0322",
+  "main": "index.js",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "discord-image-generation": "^1.4.9",
+    "discord-reply": "^0.1.2",
+    "discord.js": "^12.5.3",
+    "figlet": "^1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
